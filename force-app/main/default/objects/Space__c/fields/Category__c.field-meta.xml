@@ -16,9 +16,9 @@
                 <label>Building Block Room</label>
             </value>
             <value>
-                <fullName>Cafe</fullName>
+                <fullName>Café</fullName>
                 <default>false</default>
-                <label>Cafe</label>
+                <label>Café</label>
             </value>
             <value>
                 <fullName>Cooking Classroom</fullName>
